@@ -1,2 +1,2 @@
 ## Hi there 👋
-![Alt text](surfer.gif)
+![Surfer](surfer.gif)
