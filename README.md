@@ -1,8 +1,7 @@
 <div align="center">
-  
+
 ## Hi there 👋
-![Surfer](https://web.archive.org/web/20090902100429im_/http://geocities.com/seriefigurer/surfer.gif)
-![Top Langs](https://github-readme-stats-jri2up8tg-marcelrodriguezriccs-projects.vercel.app/api/top-langs/?username=marcelrodriguezricc&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook)
-![Satellite](https://web.archive.org/web/20091026210729im_/http://es.geocities.com/foro3_telecomunicaciones/criticas.gif)
+
+![Surfer](https://web.archive.org/web/20090902100429im_/http://geocities.com/seriefigurer/surfer.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats-jri2up8tg-marcelrodriguezriccs-projects.vercel.app/api/top-langs/?username=marcelrodriguezricc&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Satellite](https://web.archive.org/web/20091026210729im_/http://es.geocities.com/foro3_telecomunicaciones/criticas.gif)
 
 </div>
